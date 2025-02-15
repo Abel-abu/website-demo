@@ -1,0 +1,13 @@
+h1{
+background-color:black;
+border-left: 10px double red;
+border-right: 10px double red;
+border-bottom: 10px double red;
+border-top: 10px double red;
+color: beige;
+}
+body{
+  background-color: aqua;
+  
+
+}
